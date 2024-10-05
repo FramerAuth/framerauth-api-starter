@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "deno.enablePaths": ["./"],
+  "editor.formatOnSave": true,
+  "editor.inlayHints.enabled": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
